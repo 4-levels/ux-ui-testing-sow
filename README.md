@@ -1,6 +1,3 @@
-Here's an enhanced `README.md` file for your repository, including advanced design elements, GitHub badges, tables, headings, callouts, blocks, and some ASCII art.
-
-```markdown
 # SOW for UX/UI Testing
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/4-levels/ux-ui-testing-sow)
